@@ -1,2 +1,2 @@
-# laravel-
+# laravel
 laravel basic
